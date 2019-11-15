@@ -1,0 +1,18 @@
+Type: Compendium
+Package: Your compendium name
+Title: Love Life, You Only Live It Once. Or Do You?
+Version: 0.0.1
+Authors@R: 
+    person(given = "Natalie",
+           family = "Biderman",
+           role = c("aut", "cre"),
+           email = "natalie.biderman@columbia.edu")
+Description: Your compendium description
+License: What license it uses
+Depends: 
+    rmarkdown,
+    tidyverse,
+    tm,
+    topicmodels
+Encoding: UTF-8
+LazyData: true
